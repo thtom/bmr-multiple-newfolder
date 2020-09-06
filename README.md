@@ -1,2 +1,2 @@
 # bmr-multiple-newfolder
-Blackmagic Resolve - create new folders
+API Blackmagic Resolve - scrpit creates many new folders at once.
